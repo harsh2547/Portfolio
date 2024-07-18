@@ -226,8 +226,8 @@
     font-family: sans-serif;
     font-size: 25px;
     font-weight: 500;
-    margin-left: 20%;
-    padding: 2%;
+    /* margin-left: 20%; */
+    /* padding: 2%; */
     
 
 }
@@ -235,7 +235,7 @@
     font-family: sans-serif;
     color: white;
     font-size: 15px;
-    margin-left: 22%;
+    /* margin-left: 22%; */
     margin-top: -3%;
 }
 .hire_me{
@@ -249,7 +249,9 @@
     line-height: 1.5;
     border-radius: 0.25rem;
     margin-top: -2%;
-    margin-left: 70%;
+    /* margin-left: 70%; */
+    padding: 10px;
+    width: 100%;
 }
 .Testimonial{
     display: flex;
